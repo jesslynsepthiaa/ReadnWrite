@@ -1,0 +1,7 @@
+100,Serum,serum wajah yang berfungsi mencerahkan dan memanjakan kulit dipagi hari,360000
+100,Morning Mask,masker wajah dipagi hari yang berbentuk foam dipakai sebelum memakai sunblock, 450000
+100,Moisturizer,berfungsi mengunci serum dan menutrisi muka sekaligus melembabkan,475000
+150,Sunblock,berfungsi untuk mencegah paparan sinar matahari yang menyebabkan menipisnya permukaan kulit dan matinya sel dalam kulit, 300000
+200,toner,berfungsi untuk menghilangkan sisa-sisa sabun yang menempel pada wajah,500000
+50,AHA BHA PHA, berfungsi untuk menganggkat sel-sel kulit mati pada permukaan wajah, 299000
+10,Genefique,berfungsi sebagai makanan utama dalam wajah yang akan menutrisi wajah secara mendalam agar wajah tetap cerah dan muda,2570000
